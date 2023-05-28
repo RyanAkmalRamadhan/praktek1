@@ -11,5 +11,9 @@ package com.mycompany.praktek1;
 public class MahasiswaAksi {
     public static void main(String[] args) {
         Mahasiswa Harry = new Mahasiswa();
+        
+        Harry.nama="Harry Potter";
+        Harry.NPM="123456789";
+        Harry.IPK=3.4;
     }
 }
