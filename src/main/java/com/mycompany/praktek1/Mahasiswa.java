@@ -13,7 +13,7 @@ public class Mahasiswa {
     String NPM;
     double IPK;
     
-    void cetakInfo();{
+    void cetakInfo(){
         System.out.println("Nama  :"+nama);
         System.out.println("NPM   :"+NPM);
         System.out.println("IPK   :"+IPK);
